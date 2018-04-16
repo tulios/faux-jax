@@ -1,7 +1,7 @@
 {
   "name": "faux-jax",
-  "version": "5.0.5",
-  "description": "Intercept and respond to requests in the browser (XMLHttpRequest, XDomainRequest) and Node.js (http(s) module)",
+  "version": "5.0.6",
+  "description": "Fork using mitm-papandreou for node 9 - Intercept and respond to requests in the browser (XMLHttpRequest, XDomainRequest) and Node.js (http(s) module)",
   "main": "index.js",
   "scripts": {
     "dev": "DEBUG=zuul* zuul --local 8080 -- test/browser/index.js",
@@ -44,7 +44,7 @@
     "bowser": "^1.4.5",
     "lodash": "^4.16.3",
     "lodash-compat": "^3.10.2",
-    "mitm": "^1.3.2",
+    "mitm-papandreou": "^1.3.3-patch4",
     "writable-window-method": "1.0.3"
   },
   "browser": "browser.js"
