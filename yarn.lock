@@ -3224,9 +3224,10 @@ minizlib@^1.1.0:
   dependencies:
     minipass "^2.2.1"
 
-mitm-papandreou@^1.3.3-patch5:
-  version "1.3.3-patch5"
-  resolved "https://registry.yarnpkg.com/mitm-papandreou/-/mitm-papandreou-1.3.3-patch5.tgz#3fb5205e8d0f693b06789848b4698551a4de2c7f"
+mitm@^1.7.0:
+  version "1.7.0"
+  resolved "https://registry.yarnpkg.com/mitm/-/mitm-1.7.0.tgz#da03b8448090168bc68bcd847c6e014fde320829"
+  integrity sha512-O6EjnhSf7dDq+pveB5WlRbaz34cZgQuRfey7RonqsD2QB//eVXniYnH5u8QMB6bG7BUIJofL7UPaopE3iYkKlA==
   dependencies:
     semver ">= 5 < 6"
     underscore ">= 1.1.6 < 1.6"

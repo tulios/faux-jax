@@ -1,7 +1,6 @@
 # faux-jax [![Version Badge][npm-version-svg]][package-url] [![Build Status][travis-svg]][travis-url] [![License][license-image]][license-url] [![Downloads][downloads-image]][downloads-url]
 
-Fork pointing to a fork of `node-mitm` working with node 9
-https://github.com/moll/node-mitm/pull/49
+Fork pointing to a version of `mitm` compatible with node 10
 
 [![Browser tests][browser-test-matrix]][browser-test-url]
 
